@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViannyDsouza
-- 👀 I’m interested in Software Development, Cloud Computing and Data Analysis
+- 👀 I’m interested in Software Development, UI design and development and Cloud Technologies.
 - 🌱 I have a Master degree in Computer Science from UT Arlington
-- 💞️ I’m looking to collaborate on ASP.NET projects, NodeJS projects.
+- 💞️ I'm a seasoned developer with 4+ years of development experience.
 - 📫 Reach me on viannyd39souza@gmail.com/ LinkedIn: https://www.linkedin.com/in/vianny-d-souza-4a6578181/
 
 <!---
